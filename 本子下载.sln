@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "本子下载", "本子下载\本子下载.pyproj", "{EF1F90F2-E8E9-46E5-9CC8-C59664E96C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF1F90F2-E8E9-46E5-9CC8-C59664E96C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1F90F2-E8E9-46E5-9CC8-C59664E96C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D24557C3-8100-412F-9C05-AF56B1364729}
+	EndGlobalSection
+EndGlobal
